@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "ec3de34930627ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b00d338e19eb83f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8fc7f2ab7b533b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c20572a6e0182d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23efa7a1a62bf3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced7f13222e68b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14dbea7f0086b6e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c34ff5b2fb68cfef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a37e40d70ecfc99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7ad8fd856dbc908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd2904f60a53ce73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e3d13d50d6d350b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a0c9527971989a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bbe55b34825c890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a8fc7f2ab7b533b3",
+  "lastOpenFiles": [
+    "Intro/3. Framework To Solve LLD Problems.md",
+    "Intro/2. Why use Design Patterns.md",
+    "Intro/1. Introduction.md",
+    "README.md",
+    "Snakes and Ladders.md",
+    "Excalidraw/LLDProblemsNotes2024-05-03 20.33.17.excalidraw.md",
+    "Welcome.md",
+    "Problems",
+    "Excalidraw/Drawing 2024-05-03 16.46.00.excalidraw.md",
+    "Excalidraw",
+    "Intro"
+  ]
+}
