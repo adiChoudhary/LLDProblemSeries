@@ -5,7 +5,9 @@
 - [X] Framework to solve any LLD Problem
   
 ## Problems
-- [ ] Snakes and Ladders
+- [x] Snakes and Ladders
+	- [x] Design
+	- [ ] Code Overview
 - [ ] Metro Card
 - [ ] Geekdemy
 - [ ] Parking Lot

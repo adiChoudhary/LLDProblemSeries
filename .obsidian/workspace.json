@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b00d338e19eb83f",
+        "id": "50fff6deddec5d4a",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fc7f2ab7b533b3",
+            "id": "4a447a3042b71423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/Problem Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/Problem Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/Problem Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/Problem Statement.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,18 +148,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8fc7f2ab7b533b3",
+  "active": "ced7f13222e68b0e",
   "lastOpenFiles": [
+    "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/Snakes and Ladder (Phone 24hr Challenge).md",
+    "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/User Flow.md",
+    "README.md",
     "Intro/3. Framework To Solve LLD Problems.md",
+    "Intro/Untitled.md",
+    "Attachments/Pasted Image 20240505200955_265.png",
+    "Attachments/Pasted Image 20240505165843_829.png",
+    "Attachments",
+    "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)/Problem Statement.md",
+    "Attachments/Pasted Image 20240505200648_261.png",
+    "Attachments/Pasted Image 20240505200531_259.png",
+    "Attachments/Pasted Image 20240505171134_270.png",
+    "Attachments/Pasted Image 20240505170625_287.png",
+    "Attachments/Pasted Image 20240505170353_266.png",
+    "Attachments/Pasted Image 20240505170219_269.png",
+    "Attachments/Pasted Image 20240505170132_578.png",
+    "Untitled.md",
+    "Problems/1. Snakes and Ladder (PhonePe 24hr Challenge)",
+    "Excalidraw/LLDProblemsNotes2024-05-05 14.11.50.excalidraw.md",
+    "Excalidraw/LLDProblemsNotes2024-05-03 21.20.12.excalidraw.md",
+    "Excalidraw",
     "Intro/2. Why use Design Patterns.md",
     "Intro/1. Introduction.md",
-    "README.md",
     "Snakes and Ladders.md",
     "Excalidraw/LLDProblemsNotes2024-05-03 20.33.17.excalidraw.md",
     "Welcome.md",
     "Problems",
     "Excalidraw/Drawing 2024-05-03 16.46.00.excalidraw.md",
-    "Excalidraw",
     "Intro"
   ]
 }
