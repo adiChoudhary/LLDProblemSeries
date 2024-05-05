@@ -7,7 +7,7 @@
 ## Problems
 - [x] Snakes and Ladders
 	- [x] Design
-	- [ ] Code Overview
+	- [x] Code Overview
 - [ ] Metro Card
 - [ ] Geekdemy
 - [ ] Parking Lot
