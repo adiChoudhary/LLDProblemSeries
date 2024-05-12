@@ -1,0 +1,14 @@
+{
+  "obsidian-hider:toggle-app-ribbon": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "obsidian-hider:toggle-tab-containers": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ]
+}

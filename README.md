@@ -12,6 +12,9 @@
 - [ ] Geekdemy
 - [ ] Parking Lot
 
+## Design Patterns
+- [x] Command Design Pattern
+
 **Note:** To view notes properly, 
 1) Install [Obsidian](https://obsidian.md/download) 
 2) Clone repo
